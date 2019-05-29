@@ -9,12 +9,7 @@ function countLetters(str) {
     } else {
       letters[char] = 1;  
     }
-
-    // if(str[i] !=) {
-    //   str[i] += 1
-    // } else if
   }
-
   console.log(letters);
 };
 
